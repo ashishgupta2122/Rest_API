@@ -1,0 +1,42 @@
+[
+  {
+    "_id": "64514656712f73d1ff511ff8",
+    "ranking": 1,
+    "name": "Ashish Gupta",
+    "dob": "2004-07-07T18:30:00.000Z",
+    "country": "India",
+    "score": 295,
+    "event": "100m",
+    "__v": 0
+  },
+  {
+    "_id": "64522e23c75a92a7cbab5f67",
+    "ranking": 2,
+    "name": "Akash Gupta",
+    "dob": "2002-07-07T18:30:00.000Z",
+    "country": "USA",
+    "score": 890,
+    "event": "100m",
+    "__v": 0
+  },
+  {
+    "_id": "645217b867d1ad1aebdf91ad",
+    "ranking": 3,
+    "name": "Kiya Gupta",
+    "dob": "2002-09-28T18:30:00.000Z",
+    "country": "INDIA",
+    "score": 1276,
+    "event": "100m",
+    "__v": 0
+  },
+  {
+    "_id": "6452189467d1ad1aebdf91b9",
+    "ranking": 4,
+    "name": "Neha Gupta",
+    "dob": "2000-10-11T18:30:00.000Z",
+    "country": "UK",
+    "score": 1234,
+    "event": "100m",
+    "__v": 0
+  }
+]
